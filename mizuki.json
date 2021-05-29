@@ -20,6 +20,14 @@
         "No group": "/proxy/api/imgur/chapter/efOMGTZ/"
       },
       "last_updated": "1622330642"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "No group": "/proxy/api/imgur/chapter/zMVCR79/"
+      },
+      "last_updated": "1622330642"
     }
   }
 }
